@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Ajay Kumar Gupta</h3>
-<h5 align="center">A passionate developer and fullstack devloper</h5>
+<h5 align="center">A passionate fullstack devloper</h5>
 
 - 📫 How to reach me **rg190559@gmail.com**
 
