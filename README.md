@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center">Hi 👋, I'm Ritik</h3>
+<h5 align="center">A passionate developer and fullstack devloper</h5>
 
-<!--
-**akgupta55/akgupta55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **rg190559@gmail.com**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available in my github profile
+ 
+- 🌱 I’m currently learning fullstack devlopment
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="ahm_ritik" width="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ajay-kumar-gupta-011a021b5" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="ritik-dwivedi-7899581b2"  width="30" /></a>
+<a href="https://www.instagram.com/a_k_gupta555" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="ritik_dwivedi12" width="30" /></a>
+</p>
+
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivedi-ritik&theme=white&show_icons=true&locale=en&layout=compact" alt="dwivedi-ritik" /></p> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedi-ritik&theme=white&show_icons=true&locale=en" alt="dwivedi-ritik" /></p> -->
