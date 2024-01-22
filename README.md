@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, My self Ajay Kumar Gupta</h3>
 <h5 align="center">A passionate fullstack devloper 👨‍</h5>
 
-- 📫 How to reach me **rg190559@gmail.com**
+- 📫 How to reach me **agupta55544@gmail.com**
 
 - 🔭 I’m currently looking for work
 
